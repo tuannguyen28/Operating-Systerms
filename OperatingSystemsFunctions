@@ -1,5 +1,5 @@
 One of main functions of an operating system is execute and provide services for applications software: interface between the application program and the hardware. All input and output is actually carried out by the OS. The term platform refers to a combination of computer hardware and operating system.
-The important function of an oparating system is manage the computer's resources, 
+The important function of an operating system is to manage the computer's resources, 
 such as directs the hardware to perform tasks, controls the CPU, memory, disk drives and printers.
 The user need not be involved with the details of the hardware.
 An operating system has three main functions:
