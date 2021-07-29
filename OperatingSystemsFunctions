@@ -2,3 +2,10 @@ One of main functions of an operating system is execute and provide services for
 The important function of an oparating system is manage the computer's resources, 
 such as directs the hardware to perform tasks, controls the CPU, memory, disk drives and printers.
 The user need not be involved with the details of the hardware.
+An operating system has three main functions:
+- Manage computer's resources
+- User interface
+- Services for application software
+
+Establish a user interface means providing a method for the user to command the computer command line (MSDOS, UNIX, LINUX),
+or graphical user interface (Windows, Mac OS use GUIs).
